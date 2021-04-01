@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FAE Architecture Decision Log
+title: EVATool Decision Log
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is an Architecture Decision Log for the the WS 20/21 FAE Master course, working on a backend for EVATool
-  as a case study, following Domain-Driven Design principles.
+  This is an Architecture Decision Log for EVATool, following Domain-Driven Design principles.
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://evatool.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

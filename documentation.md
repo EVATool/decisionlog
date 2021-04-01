@@ -4,7 +4,7 @@ layout: default
 
 # Documentation
 
-This page contains some rudimentary documentation for the decision process used in FAE for
+This page contains some rudimentary documentation for the decision process used for
 the EVATool prototype.
 
 
@@ -33,7 +33,7 @@ These are the decision types used in the architectural decision process.
 | <img class=_2_draft src="{{ site.url }}{{ '/assets/letter-m-16.png' | relative_url }}" alt="draft"> | _2_draft | Draft | A resolution is available and documented, but there has not yet been a discussion about it. | 
 | <img class=_3_sig_agreed src="{{ site.url }}{{ '/assets/letter-m-16.png' | relative_url }}" alt="draft"> | _3_sig_agreed | Agreed in SIG | The resolution has been discussed and agreed upon in the SIG to which the decision belongs. | 
 | <img class=_4_stakeholder_checked src="{{ site.url }}{{ '/assets/letter-m-16.png' | relative_url }}" alt="draft"> | _4_stakeholder_checked | Checked with Stakeholders | The resolution has been checked with the stakeholders (Prof. Bente, UID) for quality of reasoning and documentation, and possible side effects. There are no objections (otherwise the decision would go back to draft state). | 
-| <img class=_5_presented src="{{ site.url }}{{ '/assets/letter-m-16.png' | relative_url }}" alt="draft"> | _5_presented | Presented to FAE Course | The resolution has been presented, explained, and discussed with the whole course (on a Friday meeting). There are no major objections (otherwise the decision would go back to draft state).  | 
+| <img class=_5_presented src="{{ site.url }}{{ '/assets/letter-m-16.png' | relative_url }}" alt="draft"> | _5_presented | Presented to Team | The resolution has been presented, explained, and discussed with the whole team. There are no major objections (otherwise the decision would go back to draft state).  | 
 
 
 

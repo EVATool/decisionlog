@@ -1,3 +1,7 @@
+SBA:
+  nickname: sba
+  team: requirements
+  sig:
 SBE:
   nickname: Stefan Bente
   team:
@@ -15,7 +19,8 @@ PKL:
   team:
   sig:
 AKO:
-  nickname: akosmehl
+#  nickname: akosmehl
+  nickname: user1
   team: variants
   sig: eventing
 JLÜ:
@@ -27,9 +32,14 @@ FOB:
   team: analysis
   sig: apis
 KRU:
-  nickname: kruck
+#  nickname: kruck
+  nickname: user2
   team: variants
   sig: eventing
+PSC:
+  nickname: psc
+  team: impact
+  sig:
 JSP:
   nickname: SohleDelfin6504
   team: requirements
@@ -39,10 +49,12 @@ MTO:
   team: requirements
   sig: apis
 DUZ:
-  nickname: Duzun
+#  nickname: Duzun
+  nickname: user3
   team: variants
   sig: eventing
 TZA:
-  nickname: tzaika
+#  nickname: tzaika
+  nickname: user4
   team: impact
   sig: devops
