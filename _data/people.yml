@@ -1,0 +1,48 @@
+SBE:
+  nickname: Stefan Bente
+  team:
+  sig:
+HBU:
+  nickname: hbuhl
+  team: impact
+  sig: devops
+MHA:
+  nickname: mhallweg
+  team: analysis
+  sig: devops
+PKL:
+  nickname: Peter Klein
+  team:
+  sig:
+AKO:
+  nickname: akosmehl
+  team: variants
+  sig: eventing
+JLÜ:
+  nickname: jalue 
+  team: requirements
+  sig: apis
+FOB:
+  nickname: FalahSama
+  team: analysis
+  sig: apis
+KRU:
+  nickname: kruck
+  team: variants
+  sig: eventing
+JSP:
+  nickname: SohleDelfin6504
+  team: requirements
+  sig: apis
+MTO:
+  nickname: TheBuro
+  team: requirements
+  sig: apis
+DUZ:
+  nickname: Duzun
+  team: variants
+  sig: eventing
+TZA:
+  nickname: tzaika
+  team: impact
+  sig: devops
