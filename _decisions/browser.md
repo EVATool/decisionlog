@@ -24,7 +24,9 @@ The best known are Google Chrome, Firefox, Internet Explorer (Edge) and Safari (
 ## Additional sources for better understanding the background
 
 [Browser Market Share Worldwide Mar 2021](https://gs.statcounter.com/browser-market-share#monthly-202103-202103-bar).
+
 [Angular Browser Support](https://angular.io/guide/browser-support).
+
 [Safari Windows Support](https://support.apple.com/en-us/HT204416).
 
 
